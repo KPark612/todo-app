@@ -1,5 +1,4 @@
-clean
-play
-Make soup.
+Clean the HouseGood OrderMake soup.
 Clean the code
 Master Python
+Make soup
