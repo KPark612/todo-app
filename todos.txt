@@ -1,3 +1,5 @@
 Master Python
 Make soup
-PlayClean
+Play
+Edit
+Clean
